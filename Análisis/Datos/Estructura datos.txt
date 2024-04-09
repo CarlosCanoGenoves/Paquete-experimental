@@ -1,0 +1,26 @@
+Columna ID:
+	Identificador del participante
+
+Columna Method:
+	Identificador de la técnica utilizada, hay dos posibles valores VeGAn y GRL-Quant
+
+Columna Experimental_Object
+	Identificador del sistema (objeto experimental utilizado) hay dos posibles valores E (edX) y H (Hope)
+
+Columna Accuracy_time:
+	Mide el tiempo en minutos que le ha llevado al participante realizar la actividad de priorización
+
+Columna Accuracy:
+	Mide la precisión, es un valor porcentual entre 0% y 100%
+
+Columna Evaluation:
+	Mide la satisfacción percibida, tiene un valor entre 1 y 5 (escala Likert)
+
+Columna PEOU
+	Mide la PEOU, tiene un valor entre 1 y 5 (escala Likert)
+
+Columna PU:
+	Mide la PU, tiene un valor entre 1 y 5 (escala Likert)
+
+Columna ITU
+	Mide la ITU, tiene un valor entre 1 y 5 (escala Likert)

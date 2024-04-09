@@ -1,0 +1,1 @@
+Para el análisis de la interacción se debe emplear el p-value del fichero Interaction, no el de FULL
